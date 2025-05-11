@@ -46,13 +46,13 @@ Pandas & NumPy (Data Processing)
 Plotly (Visualization)
 
 web-app interface
-![image](https://github.com/user-attachments/assets/d03e4ed1-5a1e-4008-941b-553d790ef114)
+![image]https://github.com/user-attachments/assets/fe25f948-8dbb-4cab-976d-d81f9fc27a7e)
 
 
 
 🌐 Live Demo
 The 5G Data Usage Prediction App is now live on Streamlit Cloud! 🚀
-🔗 Access the app here: 👉 https://5g-data-predictor-xgboost-7gj2gkx36qj5y8rtwrxocc.streamlit.app/
+🔗 Access the app here: 👉 https://5g-data-predictor-me9shpdjykr8hrzsszw52c.streamlit.app/
 
 The 5G Data Usage Prediction Model is built using XGBoost, a high-performance machine learning algorithm optimized for structured data. The model was trained and evaluated using multiple metrics to ensure high accuracy.
 The model achieves exceptional accuracy, with an R² score of 0.9996, indicating near-perfect correlation between input factors and predicted data usage. The low MAE and RMSE further validate the model’s precision in forecasting mobile data consumption.
