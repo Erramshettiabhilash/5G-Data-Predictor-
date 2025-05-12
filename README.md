@@ -46,7 +46,8 @@ Pandas & NumPy (Data Processing)
 Plotly (Visualization)
 
 web-app interface
-![image]https://github.com/user-attachments/assets/fe25f948-8dbb-4cab-976d-d81f9fc27a7e)
+![Screenshot 2025-05-09 064230](https://github.com/user-attachments/assets/1d367c9c-25a7-48ec-b7ad-5e0bf316e7d0)
+
 
 
 
